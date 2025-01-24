@@ -11,7 +11,7 @@
 
 ## 📚 Learning
 - 🌱 Currently exploring advanced React.js concepts, Redux,Three.js  and UI/UX design.  
-- 🔍 Eager to master video editing and integrate creativity into my technical projects.  
+- 🔍 Eager to improve my  video editing skills and integrate AI into my technical projects.  
 
 ## 📫 Get in Touch
 - ✉️ Email: [mariem.jellibi@example.com](mailto:mariemjellibi4@gmail.com)  
