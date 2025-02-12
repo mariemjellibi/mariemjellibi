@@ -14,7 +14,7 @@
 - 🔍 Eager to improve my  video editing skills and integrate AI into my technical projects.  
 
 ## 📫 Get in Touch
-- ✉️ Email: [mariem.jellibi@example.com](mailto:mariemjellibi4@gmail.com)  
+- ✉️ Email: [mariemjellibi4@gmail@example.com](mailto:mariemjellibi4@gmail.com)  
 - 💼 LinkedIn: [Mariem Jellibi](https://www.linkedin.com/in/mariem-jellibi-10809b28a/)  
 - 🌐 Portfolio: [www.mariemjellibi.com](https://www.mariemjellibi.com)  
 
