@@ -10,7 +10,7 @@
 - 🚀 Open to contributing to projects that solve real-world problems and improve lives.  
 
 ## 📚 Learning
-- 🌱 Currently exploring advanced React.js concepts, Redux,Three.js  and UI/UX design.  
+- 🌱 Currently exploring advanced Devops concepts.  
 - 🔍 Eager to improve my  video editing skills and integrate AI into my technical projects.  
 
 ## 📫 Get in Touch
